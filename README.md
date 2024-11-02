@@ -48,6 +48,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 F.M.E.S is a modern, responsive web application for ordering fresh meat, eggs, and seafood online. Built with React, TypeScript, and Tailwind CSS, this project showcases best practices in front-end development and e-commerce user experience.
 
+![Screenshot 2024-11-02 224242](https://github.com/user-attachments/assets/b2bf5f91-1f93-425e-82c7-96e206aa3de5)
+
+![Screenshot 2024-11-02 224300](https://github.com/user-attachments/assets/7c1b1495-a608-4999-8224-1b5ba84cfb9f)
+
+![Screenshot 2024-11-02 224330](https://github.com/user-attachments/assets/a6920b45-cc52-4fc9-b231-84ccb7a63518)
+
 
 
 ## 🚀 Features
